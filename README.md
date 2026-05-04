@@ -1,8 +1,6 @@
 # Doctor Finder
 
-This project features a basic web app for finding and managing doctor listings in New York City.
-
-Features
+This project features a basic web app for finding and managing doctor listings in New York City. Features include the following: 
 - Browse doctors on the home page
 - Search by name, specialty, or condition (with highlighted matches)
 - View full doctor profiles including insurance, education, location, and contact info
